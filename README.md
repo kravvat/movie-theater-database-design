@@ -7,13 +7,13 @@ The project is currently in the planning phase. The structure is being drafted i
 ---
 
 ## 📁 Project Structure
-
+```
 movie-theater-database-design/
 ├── docs/ # Planning files (Excel, notes, diagrams)
 ├── SQL/ # SQL scripts (to be added)
 ├── README.md # Project description
 └── .gitignore # Ignored files and patterns
-
+```
 ---
 
 ## 📌 Status
