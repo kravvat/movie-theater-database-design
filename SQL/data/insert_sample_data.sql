@@ -106,3 +106,14 @@ INSERT INTO screenings (
 	(3, 3, '2024-06-11 16:00:00', 30.00, 24.00),  -- Toy Story
 	(4, 4, '2024-06-11 19:30:00', 37.00, 29.00),  -- Parasite
 	(5, 5, '2024-06-12 21:00:00', 40.00, 30.00);  -- Interstellar
+
+INSERT INTO reservations (
+    client_id, screening_id, seat_id, is_paid,
+    purchase_date, purchase_time, purchase_location
+)
+	VALUES
+	(1, 1, 1, true,  '2024-06-03', '17:35', 'online'),
+	(2, 2, 2, false, '2024-06-04', '18:10', 'box_office'),
+	(3, 3, 3, true,  '2024-06-04', '12:25', 'box_office'),
+	(4, 4, 4, true,  '2024-06-05', '15:50', 'app'),
+	(5, 5, 5, false, '2024-06-06', '20:05', 'online');
