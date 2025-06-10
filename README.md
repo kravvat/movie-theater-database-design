@@ -88,3 +88,8 @@ This project is open for educational use. Attribution appreciated if reused.
 
 - 💻 HackerRank: [kravvat_](https://www.hackerrank.com/profile/kravvat_)
 - 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)
+
+---
+
+Thanks for visiting!  
+Happy querying! 🧠💡
