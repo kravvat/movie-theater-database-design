@@ -94,4 +94,4 @@ This project is open for educational use. Attribution appreciated if reused.
 ---
 
 Thanks for visiting!  
-Happy querying! 🧠💡
+Have a great day and happy coding!
