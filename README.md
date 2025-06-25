@@ -87,9 +87,8 @@ This project is open for educational use. Attribution appreciated if reused.
 ## 🔗 Connect with me
 
 - ⚔️ Boot.dev: [kravvat](https://www.boot.dev/u/kravvat)  
-- 💻 HackerRank: [kravvat_](https://www.hackerrank.com/profile/kravvat_)
-- 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)
-- 📫 Email: kacperstec3d@gmail.com
+- 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)  
+- 📫 Email: kacperstec3d@gmail.com  
 
 ---
 
